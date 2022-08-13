@@ -1,0 +1,57 @@
+[   
+    {
+        "id":1,
+        "name":"Cupcake",
+        "price":6.99,
+        "imageUrl":"./images/cake/cupcake.jpg"
+    },
+    {
+        "id":2,
+        "name":"Cookies",
+        "price":3.99,
+        "imageUrl":"./images/cake/biscuit.jpg"
+    },
+    {
+        "id":3,
+        "name":"Cake",
+        "price":54.99,
+        "imageUrl":"./images/cake/Choc-cake.jpg"
+    },
+    {
+        "id":4,
+        "name":"Red Wine",
+        "price":85.00,
+        "imageUrl":"./images/wine/red-wine-dark.jpg"
+    },
+    {
+        "id":5,
+        "name":"Sparkling Wine",
+        "price":130.00,
+        "imageUrl":"./images/wine/sparkling-wine.jpg"
+    },
+    {
+        "id":6,
+        "name":"White Wine",
+        "price":150.00,
+        "imageUrl":"./images/wine/white-wine-two.jpg"
+    },
+    {
+        "id":7,
+        "name":"Sliced Pineapple",
+        "price":30.00,
+        "imageUrl":"./images/fruit/pineapple.jpg"
+    },
+    {
+        "id":8,
+        "name":"Strawberry",
+        "price":30.00,
+        "imageUrl":"./images/fruit/strawberry.jpg"
+    },
+    {
+        "id":9,
+        "name":" Sliced Watermelon",
+        "price":25.00,
+        "imageUrl":"./images/fruit/watermelon.jpg"
+    }
+
+]
