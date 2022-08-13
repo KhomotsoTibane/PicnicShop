@@ -10,9 +10,9 @@ export default function Navbar(){
             <Container>
                 <NavbarBs.Brand href="#home">PincicMe</NavbarBs.Brand>
                 <Nav className="me-auto">
-                    <Nav.Link to="/" as={NavLink}>Home</Nav.Link>
+                    {/* <Nav.Link to="/" as={NavLink}>Home</Nav.Link> */}
                     <Nav.Link to="/shop" as={NavLink}>Shop</Nav.Link>
-                    <Nav.Link to="/about" as={NavLink}>About</Nav.Link>
+                    {/* <Nav.Link to="/about" as={NavLink}>About</Nav.Link> */}
                </Nav>
                {cartQuantity > 0 &&(
                 <Button 
